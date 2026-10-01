@@ -270,6 +270,14 @@ Este apartado contiene las definiciones vigentes de los términos del dominio qu
 | **Paciente** | Usuario registrado con enfermedad inflamatoria intestinal que utiliza la plataforma y gestiona sus datos de salud. | Acta Sec. 1.1, 2 |
 | **Cuidador** | Usuario vinculado a uno o varios pacientes (con su previa autorización) para ayudar en su gestión. | Acta Sec. 1.2, 2 |
 | **Coordinador** | Único rol responsable de administrar la plataforma, moderar el foro y gestionar los reportes. | Acta Sec. 4 |
+| **Receta adaptada** | Búsqueda de recetas filtrada según el perfil y restricciones del paciente, sin modificación automática de ingredientes. | Acta Sec. 3 |
+| **Receta propuesta** | Receta enviada por un paciente o cuidador pendiente de la validación de un nutricionista. | Acta Sec. 3 |
+| **Receta validada** | Receta creada o aprobada por un nutricionista y lista para su consulta general. | Acta Sec. 3 |
+| **Foro** | Espacio público de debate e interacción para usuarios registrados, independiente de las recetas. | Acta Sec. 4 |
+| **Publicación de salud** | Artículo informativo breve elaborado por un nutricionista, abierto a comentarios pero sin nota numérica. | Acta Sec. 5 |
+| **Información de salud** | Datos opcionales del paciente usados para personalizar la búsqueda de recetas. | Acta Sec. 2, 7.1 |
+| **Reporte** | Notificación enviada por un usuario al coordinador para revisar contenido o perfiles inapropiados. | Acta Sec. 4 |
+| **Cuenta inactiva** | Estado del perfil de cuidador tras tres meses sin tener ningún paciente asociado. | Acta Sec. 2 |
 
 ## 10. Modelos de análisis
 
