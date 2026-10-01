@@ -1,4 +1,4 @@
-# Proyecto Simbiosis https://www.ajedrez-online.eu/game/vv00fxio
+# Proyecto Simbiosis
 
 ## Catálogo de requisitos
 
