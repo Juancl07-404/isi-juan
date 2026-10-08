@@ -46,10 +46,7 @@ El servicio de correo es un sistema externo utilizado para las comunicaciones as
 | UC-05 | Actualizar perfil | Actualizar los datos personales y preferencias permitidos | Actor principal: Usuario registrado |
 | UC-06 | Eliminar cuenta propia | Solicitar la eliminación de la cuenta propia tras comprobar la identidad | Actor principal: Usuario registrado |
 | UC-07 | Gestionar cuentas | Consultar y gestionar las cuentas según las funciones de administración previstas | Actor principal: Coordinador |
-| UC-08 | Aprobar perfil profesional | Aprobar una solicitud de perfil profesional después de revisar la documentación requerida | Actor principal: Coordinador |
-| UC-09 | Gestionar relación de cuidado | Gestionar la activación de una relación de cuidado conforme a la autorización del paciente | Actor principal: Usuario registrado |
-| UC-10 | Consultar ayuda | Consultar instrucciones y contenidos de ayuda relacionados con las funciones disponibles | Actor principal: Usuario |
-| UC-11 | Realizar bienvenida | Mostrar el recorrido de bienvenida durante el primer acceso | Actor principal: Usuario registrado |
+
 
 Los casos de uso representan objetivos funcionales y no corresponden necesariamente uno a uno con los FR del catálogo.
 
